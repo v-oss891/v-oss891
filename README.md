@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 
-<!--
-**v-oss891/v-oss891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A curious mind exploring technology, problem-solving, and ideas that matter.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+
+* I enjoy understanding how things work, not just using them
+* I like solving challenging problems and thinking deeply
+* Constantly learning and improving my skills
+* Interested in logic, systems, and real-world applications
+
+---
+
+### ⚡ Mindset
+
+> I believe consistency and curiosity beat talent in the long run.
+
+---
+
+### 📫 Reach Me
+
+* GitHub: https://github.com/v-oss891
